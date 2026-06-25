@@ -1,17 +1,17 @@
 class Solution {
 public:
     int arrangeCoins(int n) {
-        if(n<=1)return n;
-        long long sum =0;
-        int ans = 0;
-        for(int i=1;i<n;i++){
-            sum+=i;
-            if(sum<=n){
-                ans = i;
-            }else{
+        int x = 0;
+
+        for(int i = 1; i <= n; i++) {
+            long long p = (1LL * i * (i + 1)) / 2;
+
+            if(p <= n)
+                x = i;
+            else
                 break;
-            }
         }
-        return ans;
+
+        return x;
     }
 };
