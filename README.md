@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/PunitNiranjan20/leetcode/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/PunitNiranjan20/leetcode/tree/master/0234-palindrome-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/PunitNiranjan20/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/PunitNiranjan20/leetcode/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/PunitNiranjan20/leetcode/tree/master/0189-rotate-array) |
 | [0441-arranging-coins](https://github.com/PunitNiranjan20/leetcode/tree/master/0441-arranging-coins) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/PunitNiranjan20/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -89,4 +91,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/PunitNiranjan20/leetcode/tree/master/0234-palindrome-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/PunitNiranjan20/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 <!---LeetCode Topics End-->
