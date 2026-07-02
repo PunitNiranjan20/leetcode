@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/PunitNiranjan20/leetcode/tree/master/0049-group-anagrams) |
 | [0771-jewels-and-stones](https://github.com/PunitNiranjan20/leetcode/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/PunitNiranjan20/leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/PunitNiranjan20/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PunitNiranjan20/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
@@ -17,11 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/PunitNiranjan20/leetcode/tree/master/0049-group-anagrams) |
 | [0771-jewels-and-stones](https://github.com/PunitNiranjan20/leetcode/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/PunitNiranjan20/leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/PunitNiranjan20/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PunitNiranjan20/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Counting
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/PunitNiranjan20/leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/PunitNiranjan20/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PunitNiranjan20/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Array
 |  |
@@ -31,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/PunitNiranjan20/leetcode/tree/master/0049-group-anagrams) |
 | [0189-rotate-array](https://github.com/PunitNiranjan20/leetcode/tree/master/0189-rotate-array) |
 | [0875-koko-eating-bananas](https://github.com/PunitNiranjan20/leetcode/tree/master/0875-koko-eating-bananas) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/PunitNiranjan20/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PunitNiranjan20/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/PunitNiranjan20/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PunitNiranjan20/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -96,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/PunitNiranjan20/leetcode/tree/master/0234-palindrome-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/PunitNiranjan20/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1684-count-the-number-of-consistent-strings](https://github.com/PunitNiranjan20/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 <!---LeetCode Topics End-->
