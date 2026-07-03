@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/PunitNiranjan20/leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/PunitNiranjan20/leetcode/tree/master/0234-palindrome-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/PunitNiranjan20/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Bit Manipulation
@@ -110,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PunitNiranjan20/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/PunitNiranjan20/leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
