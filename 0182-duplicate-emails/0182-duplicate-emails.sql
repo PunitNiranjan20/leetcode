@@ -1,0 +1,1 @@
+select distinct e.email from person e join person e1 where e.email = e1.email and e.id != e1.id;
