@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/PunitNiranjan20/leetcode/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/PunitNiranjan20/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/PunitNiranjan20/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/PunitNiranjan20/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PunitNiranjan20/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/PunitNiranjan20/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PunitNiranjan20/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/PunitNiranjan20/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/PunitNiranjan20/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PunitNiranjan20/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Linked List
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/PunitNiranjan20/leetcode/tree/master/0441-arranging-coins) |
 | [0875-koko-eating-bananas](https://github.com/PunitNiranjan20/leetcode/tree/master/0875-koko-eating-bananas) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/PunitNiranjan20/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/PunitNiranjan20/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Stack
 |  |
 | ------- |
@@ -143,4 +146,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/PunitNiranjan20/leetcode/tree/master/0225-implement-stack-using-queues) |
+## Union-Find
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/PunitNiranjan20/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/PunitNiranjan20/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
