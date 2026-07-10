@@ -12,7 +12,6 @@ public:
         }
         int n = senate.size(); 
         while(!r.empty() && !d.empty()){
-            cout<<r.front()<<" "<<d.front()<<endl;
             if(r.front()<d.front()){
                 d.pop();
                 r.push(n++);
