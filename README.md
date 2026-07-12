@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/PunitNiranjan20/leetcode/tree/master/0049-group-anagrams) |
 | [0771-jewels-and-stones](https://github.com/PunitNiranjan20/leetcode/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/PunitNiranjan20/leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/PunitNiranjan20/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/PunitNiranjan20/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/PunitNiranjan20/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PunitNiranjan20/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/PunitNiranjan20/leetcode/tree/master/0189-rotate-array) |
 | [0875-koko-eating-bananas](https://github.com/PunitNiranjan20/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/PunitNiranjan20/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1331-rank-transform-of-an-array](https://github.com/PunitNiranjan20/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/PunitNiranjan20/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/PunitNiranjan20/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PunitNiranjan20/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/PunitNiranjan20/leetcode/tree/master/0049-group-anagrams) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/PunitNiranjan20/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1331-rank-transform-of-an-array](https://github.com/PunitNiranjan20/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/PunitNiranjan20/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
 |  |
