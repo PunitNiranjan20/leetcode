@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/PunitNiranjan20/leetcode/tree/master/0189-rotate-array) |
 | [0875-koko-eating-bananas](https://github.com/PunitNiranjan20/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/PunitNiranjan20/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1046-last-stone-weight](https://github.com/PunitNiranjan20/leetcode/tree/master/1046-last-stone-weight) |
 | [1331-rank-transform-of-an-array](https://github.com/PunitNiranjan20/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/PunitNiranjan20/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/PunitNiranjan20/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/PunitNiranjan20/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/PunitNiranjan20/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1046-last-stone-weight](https://github.com/PunitNiranjan20/leetcode/tree/master/1046-last-stone-weight) |
 ## Database
 |  |
 | ------- |
