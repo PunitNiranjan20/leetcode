@@ -1,28 +1,31 @@
 class Solution {
 public:
     int fillCups(vector<int>& amount) {
-        priority_queue<int, vector<int>, less<int>>q;
-        for(int i=0;i<3;i++){
-            if(amount[i]==0)continue;
-            q.push(amount[i]);
+
+        priority_queue<int> pq;
+
+        for(int x : amount)
+            if(x > 0)
+                pq.push(x);
+
+        int ans = 0;
+
+        while(pq.size() >= 2){
+
+            int a = pq.top(); pq.pop();
+            int b = pq.top(); pq.pop();
+
+            a--;
+            b--;
+            ans++;
+
+            if(a > 0) pq.push(a);
+            if(b > 0) pq.push(b);
         }
-        if(q.empty())return 0;
-        int i = 0;
-        while(!q.empty()){
-            if(q.size()==1){
-                cout<<i+q.top();
-            return i+q.top();
-            }
-            int first = q.top();q.pop();
-            int second = q.top();q.pop();
-            if(first-1>0){
-            q.push(first-1);
-            }
-            if(second-1>0){
-            q.push(second-1);
-            }
-            i++;
-        }
-        return i;
+
+        if(!pq.empty())
+            ans += pq.top();
+
+        return ans;
     }
 };
