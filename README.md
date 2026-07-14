@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/PunitNiranjan20/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PunitNiranjan20/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/PunitNiranjan20/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/PunitNiranjan20/leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/PunitNiranjan20/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/PunitNiranjan20/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/PunitNiranjan20/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/PunitNiranjan20/leetcode/tree/master/0011-container-with-most-water) |
 | [0649-dota2-senate](https://github.com/PunitNiranjan20/leetcode/tree/master/0649-dota2-senate) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/PunitNiranjan20/leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Sorting
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/PunitNiranjan20/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PunitNiranjan20/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/PunitNiranjan20/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/PunitNiranjan20/leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/PunitNiranjan20/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
 |  |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/PunitNiranjan20/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PunitNiranjan20/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/PunitNiranjan20/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/PunitNiranjan20/leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Database
 |  |
 | ------- |
