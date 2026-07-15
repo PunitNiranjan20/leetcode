@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/PunitNiranjan20/leetcode/tree/master/0441-arranging-coins) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/PunitNiranjan20/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/PunitNiranjan20/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/PunitNiranjan20/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/PunitNiranjan20/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
 |  |
@@ -227,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/PunitNiranjan20/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/PunitNiranjan20/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
