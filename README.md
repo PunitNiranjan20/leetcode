@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/PunitNiranjan20/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/PunitNiranjan20/leetcode/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/PunitNiranjan20/leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/PunitNiranjan20/leetcode/tree/master/0231-power-of-two) |
 | [0441-arranging-coins](https://github.com/PunitNiranjan20/leetcode/tree/master/0441-arranging-coins) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/PunitNiranjan20/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/PunitNiranjan20/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/PunitNiranjan20/leetcode/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/PunitNiranjan20/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/PunitNiranjan20/leetcode/tree/master/0234-palindrome-linked-list) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/PunitNiranjan20/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Two Pointers
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/PunitNiranjan20/leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/PunitNiranjan20/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/PunitNiranjan20/leetcode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/PunitNiranjan20/leetcode/tree/master/0231-power-of-two) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/PunitNiranjan20/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/PunitNiranjan20/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Dynamic Programming
