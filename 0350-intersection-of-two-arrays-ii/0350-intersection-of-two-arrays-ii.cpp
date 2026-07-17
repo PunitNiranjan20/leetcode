@@ -7,11 +7,10 @@ public:
         }
         vector<int>arr;
         for(int num : nums2){
-            if(mp.find(num)!=mp.end()){
+            if(mp[num]){
                 arr.push_back(num);
                 mp[num]--;
             }
-            if(mp[num]==0) mp.erase(num);
         }
         return arr;
     }
