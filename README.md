@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/PunitNiranjan20/leetcode/tree/master/0205-isomorphic-strings) |
 | [0649-dota2-senate](https://github.com/PunitNiranjan20/leetcode/tree/master/0649-dota2-senate) |
 | [0771-jewels-and-stones](https://github.com/PunitNiranjan20/leetcode/tree/master/0771-jewels-and-stones) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/PunitNiranjan20/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/PunitNiranjan20/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/PunitNiranjan20/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PunitNiranjan20/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/PunitNiranjan20/leetcode/tree/master/0011-container-with-most-water) |
 | [0649-dota2-senate](https://github.com/PunitNiranjan20/leetcode/tree/master/0649-dota2-senate) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/PunitNiranjan20/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/PunitNiranjan20/leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Sorting
 |  |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/PunitNiranjan20/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/PunitNiranjan20/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/PunitNiranjan20/leetcode/tree/master/0234-palindrome-linked-list) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/PunitNiranjan20/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/PunitNiranjan20/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Bit Manipulation
 |  |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/PunitNiranjan20/leetcode/tree/master/0042-trapping-rain-water) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/PunitNiranjan20/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
