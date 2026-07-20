@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1075-project-employees-i](https://github.com/PunitNiranjan20/leetcode/tree/master/1075-project-employees-i) |
 | [1193-monthly-transactions-i](https://github.com/PunitNiranjan20/leetcode/tree/master/1193-monthly-transactions-i) |
 | [1251-average-selling-price](https://github.com/PunitNiranjan20/leetcode/tree/master/1251-average-selling-price) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/PunitNiranjan20/leetcode/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/PunitNiranjan20/leetcode/tree/master/1633-percentage-of-users-attended-a-contest) |
 ## Queue
 |  |
