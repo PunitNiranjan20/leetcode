@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/PunitNiranjan20/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/PunitNiranjan20/leetcode/tree/master/0011-container-with-most-water) |
+| [0039-combination-sum](https://github.com/PunitNiranjan20/leetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/PunitNiranjan20/leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/PunitNiranjan20/leetcode/tree/master/0049-group-anagrams) |
 | [0136-single-number](https://github.com/PunitNiranjan20/leetcode/tree/master/0136-single-number) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/PunitNiranjan20/leetcode/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/PunitNiranjan20/leetcode/tree/master/0077-combinations) |
 | [0257-binary-tree-paths](https://github.com/PunitNiranjan20/leetcode/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
