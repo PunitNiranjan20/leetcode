@@ -306,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/PunitNiranjan20/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/PunitNiranjan20/leetcode/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
