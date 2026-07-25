@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/PunitNiranjan20/leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/PunitNiranjan20/leetcode/tree/master/0049-group-anagrams) |
+| [0202-happy-number](https://github.com/PunitNiranjan20/leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/PunitNiranjan20/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/PunitNiranjan20/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/PunitNiranjan20/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/PunitNiranjan20/leetcode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/PunitNiranjan20/leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/PunitNiranjan20/leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/PunitNiranjan20/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/PunitNiranjan20/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/PunitNiranjan20/leetcode/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/PunitNiranjan20/leetcode/tree/master/0441-arranging-coins) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/PunitNiranjan20/leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/PunitNiranjan20/leetcode/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/PunitNiranjan20/leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/PunitNiranjan20/leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/PunitNiranjan20/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PunitNiranjan20/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/PunitNiranjan20/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
