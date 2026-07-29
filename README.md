@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PunitNiranjan20/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/PunitNiranjan20/leetcode/tree/master/0042-trapping-rain-water) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/PunitNiranjan20/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Design
 |  |
 | ------- |
@@ -298,11 +299,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/PunitNiranjan20/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/PunitNiranjan20/leetcode/tree/master/0257-binary-tree-paths) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/PunitNiranjan20/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/PunitNiranjan20/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/PunitNiranjan20/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/PunitNiranjan20/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/PunitNiranjan20/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/PunitNiranjan20/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/PunitNiranjan20/leetcode/tree/master/0257-binary-tree-paths) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/PunitNiranjan20/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/PunitNiranjan20/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Data Stream
 |  |
 | ------- |
@@ -353,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/PunitNiranjan20/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/PunitNiranjan20/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/PunitNiranjan20/leetcode/tree/master/0257-binary-tree-paths) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/PunitNiranjan20/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Combinatorics
 |  |
 | ------- |
