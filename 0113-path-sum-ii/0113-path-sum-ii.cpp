@@ -13,7 +13,6 @@ class Solution {
 public:
     vector<vector<int>>result;
     void backtrack(TreeNode* root, int target,vector<int>arr){
-        cout<<target<<" "; 
         if(root==NULL) return ;
         arr.push_back(root->val);
         if(!root->left && !root->right && target-root->val == 0) result.push_back(arr);
