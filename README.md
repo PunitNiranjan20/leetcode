@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/PunitNiranjan20/leetcode/tree/master/0049-group-anagrams) |
 | [0136-single-number](https://github.com/PunitNiranjan20/leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/PunitNiranjan20/leetcode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/PunitNiranjan20/leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/PunitNiranjan20/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/PunitNiranjan20/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/PunitNiranjan20/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/PunitNiranjan20/leetcode/tree/master/0200-number-of-islands) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/PunitNiranjan20/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/PunitNiranjan20/leetcode/tree/master/0200-number-of-islands) |
 | [1260-shift-2d-grid](https://github.com/PunitNiranjan20/leetcode/tree/master/1260-shift-2d-grid) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/PunitNiranjan20/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Number Theory
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/PunitNiranjan20/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/PunitNiranjan20/leetcode/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/PunitNiranjan20/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/PunitNiranjan20/leetcode/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/PunitNiranjan20/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/PunitNiranjan20/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/PunitNiranjan20/leetcode/tree/master/0257-binary-tree-paths) |
@@ -372,4 +376,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/PunitNiranjan20/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PunitNiranjan20/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/PunitNiranjan20/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/PunitNiranjan20/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
