@@ -7,7 +7,6 @@ public:
              return;
         }
         
-        
         grid[i][j] = 0;
        count++;
        
