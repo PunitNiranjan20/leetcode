@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/PunitNiranjan20/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/PunitNiranjan20/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PunitNiranjan20/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0486-predict-the-winner](https://github.com/PunitNiranjan20/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PunitNiranjan20/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/PunitNiranjan20/leetcode/tree/master/0695-max-area-of-island) |
 | [0875-koko-eating-bananas](https://github.com/PunitNiranjan20/leetcode/tree/master/0875-koko-eating-bananas) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/PunitNiranjan20/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/PunitNiranjan20/leetcode/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/PunitNiranjan20/leetcode/tree/master/0441-arranging-coins) |
+| [0486-predict-the-winner](https://github.com/PunitNiranjan20/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PunitNiranjan20/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/PunitNiranjan20/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/PunitNiranjan20/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/PunitNiranjan20/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/PunitNiranjan20/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/PunitNiranjan20/leetcode/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/PunitNiranjan20/leetcode/tree/master/0486-predict-the-winner) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/PunitNiranjan20/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Two Pointers
 |  |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PunitNiranjan20/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/PunitNiranjan20/leetcode/tree/master/0042-trapping-rain-water) |
+| [0486-predict-the-winner](https://github.com/PunitNiranjan20/leetcode/tree/master/0486-predict-the-winner) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/PunitNiranjan20/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Design
 |  |
@@ -387,4 +391,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/PunitNiranjan20/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/PunitNiranjan20/leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/PunitNiranjan20/leetcode/tree/master/0695-max-area-of-island) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/PunitNiranjan20/leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
