@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/PunitNiranjan20/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/PunitNiranjan20/leetcode/tree/master/0695-max-area-of-island) |
 | [0875-koko-eating-bananas](https://github.com/PunitNiranjan20/leetcode/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/PunitNiranjan20/leetcode/tree/master/0877-stone-game) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/PunitNiranjan20/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1046-last-stone-weight](https://github.com/PunitNiranjan20/leetcode/tree/master/1046-last-stone-weight) |
 | [1260-shift-2d-grid](https://github.com/PunitNiranjan20/leetcode/tree/master/1260-shift-2d-grid) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/PunitNiranjan20/leetcode/tree/master/0441-arranging-coins) |
 | [0486-predict-the-winner](https://github.com/PunitNiranjan20/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PunitNiranjan20/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/PunitNiranjan20/leetcode/tree/master/0877-stone-game) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/PunitNiranjan20/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/PunitNiranjan20/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PunitNiranjan20/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/PunitNiranjan20/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/PunitNiranjan20/leetcode/tree/master/0042-trapping-rain-water) |
 | [0486-predict-the-winner](https://github.com/PunitNiranjan20/leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/PunitNiranjan20/leetcode/tree/master/0877-stone-game) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/PunitNiranjan20/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Design
 |  |
@@ -399,4 +402,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/PunitNiranjan20/leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/PunitNiranjan20/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
