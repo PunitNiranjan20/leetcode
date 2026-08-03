@@ -15,7 +15,7 @@ public:
             visit[it.second] = true;
             ans += it.first;
             for(int i=0;i<points.size();i++){
-                if(i==it.second) continue;
+                if(i==it.second || visit[i]) continue;
                 int weight = distance(points[it.second],points[i]);
                 pq.push({weight,i});
             }
