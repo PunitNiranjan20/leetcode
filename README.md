@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/PunitNiranjan20/leetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/PunitNiranjan20/leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/PunitNiranjan20/leetcode/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/PunitNiranjan20/leetcode/tree/master/0055-jump-game) |
 | [0136-single-number](https://github.com/PunitNiranjan20/leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/PunitNiranjan20/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/PunitNiranjan20/leetcode/tree/master/0198-house-robber) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/PunitNiranjan20/leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/PunitNiranjan20/leetcode/tree/master/0055-jump-game) |
 | [0649-dota2-senate](https://github.com/PunitNiranjan20/leetcode/tree/master/0649-dota2-senate) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PunitNiranjan20/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/PunitNiranjan20/leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PunitNiranjan20/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/PunitNiranjan20/leetcode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/PunitNiranjan20/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/PunitNiranjan20/leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/PunitNiranjan20/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/PunitNiranjan20/leetcode/tree/master/0213-house-robber-ii) |
