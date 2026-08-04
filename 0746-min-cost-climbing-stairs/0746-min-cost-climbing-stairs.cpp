@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int solve(vector<int>arr,int n,vector<int>&dp){
+    int solve(vector<int>&arr,int n,vector<int>&dp){
         if(n>=arr.size()){
             return 0;
         }
