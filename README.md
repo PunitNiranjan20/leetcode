@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/PunitNiranjan20/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/PunitNiranjan20/leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/PunitNiranjan20/leetcode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/PunitNiranjan20/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/PunitNiranjan20/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/PunitNiranjan20/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/PunitNiranjan20/leetcode/tree/master/0231-power-of-two) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PunitNiranjan20/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/PunitNiranjan20/leetcode/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/PunitNiranjan20/leetcode/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/PunitNiranjan20/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/PunitNiranjan20/leetcode/tree/master/0877-stone-game) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/PunitNiranjan20/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -427,4 +429,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/PunitNiranjan20/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/PunitNiranjan20/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
