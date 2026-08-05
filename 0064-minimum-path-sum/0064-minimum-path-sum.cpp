@@ -5,24 +5,29 @@ public:
         int m = grid.size();
         int n = grid[0].size();
 
-        vector<vector<int>> dp(m, vector<int>(n, 0));
-
-        // Base case
-        dp[m - 1][n - 1] = grid[m - 1][n - 1];
+        vector<int> front(n, 0);
 
         for (int i = m - 1; i >= 0; i--) {
+
+            vector<int> curr(n, 0);
+
             for (int j = n - 1; j >= 0; j--) {
 
-                if (i == m - 1 && j == n - 1)
-                    continue;
+                if (i == m - 1 && j == n - 1) {
+                    curr[j] = grid[i][j];
+                }
+                else {
 
-                int down = (i + 1 < m) ? dp[i + 1][j] : 1e9;
-                int right = (j + 1 < n) ? dp[i][j + 1] : 1e9;
+                    int down = (i + 1 < m) ? front[j] : 1e9;
+                    int right = (j + 1 < n) ? curr[j + 1] : 1e9;
 
-                dp[i][j] = grid[i][j] + min(down, right);
+                    curr[j] = grid[i][j] + min(down, right);
+                }
             }
+
+            front = curr;
         }
 
-        return dp[0][0];
+        return front[0];
     }
 };
