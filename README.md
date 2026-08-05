@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/PunitNiranjan20/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/PunitNiranjan20/leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/PunitNiranjan20/leetcode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/PunitNiranjan20/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/PunitNiranjan20/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/PunitNiranjan20/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/PunitNiranjan20/leetcode/tree/master/0202-happy-number) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/PunitNiranjan20/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/PunitNiranjan20/leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/PunitNiranjan20/leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/PunitNiranjan20/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/PunitNiranjan20/leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/PunitNiranjan20/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/PunitNiranjan20/leetcode/tree/master/0213-house-robber-ii) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/PunitNiranjan20/leetcode/tree/master/0062-unique-paths) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/PunitNiranjan20/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Breadth-First Search
 |  |
