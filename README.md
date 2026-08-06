@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/PunitNiranjan20/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PunitNiranjan20/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/PunitNiranjan20/leetcode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/PunitNiranjan20/leetcode/tree/master/1025-divisor-game) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/PunitNiranjan20/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/PunitNiranjan20/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PunitNiranjan20/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/PunitNiranjan20/leetcode/tree/master/0486-predict-the-winner) |
 | [0746-min-cost-climbing-stairs](https://github.com/PunitNiranjan20/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/PunitNiranjan20/leetcode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/PunitNiranjan20/leetcode/tree/master/1025-divisor-game) |
 | [1143-longest-common-subsequence](https://github.com/PunitNiranjan20/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/PunitNiranjan20/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Design
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/PunitNiranjan20/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/PunitNiranjan20/leetcode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/PunitNiranjan20/leetcode/tree/master/1025-divisor-game) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
@@ -459,4 +462,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/PunitNiranjan20/leetcode/tree/master/1143-longest-common-subsequence) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/PunitNiranjan20/leetcode/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/PunitNiranjan20/leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
