@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/PunitNiranjan20/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/PunitNiranjan20/leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/PunitNiranjan20/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/PunitNiranjan20/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/PunitNiranjan20/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/PunitNiranjan20/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/PunitNiranjan20/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/PunitNiranjan20/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1260-shift-2d-grid](https://github.com/PunitNiranjan20/leetcode/tree/master/1260-shift-2d-grid) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/PunitNiranjan20/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/PunitNiranjan20/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PunitNiranjan20/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
 |  |
