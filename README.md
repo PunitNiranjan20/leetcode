@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/PunitNiranjan20/leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/PunitNiranjan20/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/PunitNiranjan20/leetcode/tree/master/0064-minimum-path-sum) |
+| [0088-merge-sorted-array](https://github.com/PunitNiranjan20/leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/PunitNiranjan20/leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/PunitNiranjan20/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/PunitNiranjan20/leetcode/tree/master/0198-house-robber) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/PunitNiranjan20/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/PunitNiranjan20/leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/PunitNiranjan20/leetcode/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/PunitNiranjan20/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/PunitNiranjan20/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/PunitNiranjan20/leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/PunitNiranjan20/leetcode/tree/master/0234-palindrome-linked-list) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/PunitNiranjan20/leetcode/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/PunitNiranjan20/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/PunitNiranjan20/leetcode/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PunitNiranjan20/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PunitNiranjan20/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
